@@ -6,7 +6,3 @@ python, C
 ArduinoUNO, RGB_LED, Thermometer, Button
 ## Development tools
 ATOM, ARDUINO, VScode
-## Production motive
-
-## Work sumamry
-
